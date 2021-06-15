@@ -183,7 +183,7 @@ nav {
   color: var(--text1);
 }
 
-#projects-link {
+#profile-link {
   grid-column: 1/4;
   padding: 10px 20px;
   color: var(--text1);
